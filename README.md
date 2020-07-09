@@ -1,4 +1,4 @@
-![Header](src/header.png)
+<img src = "./src/header.png">
 
 ### Hi there 👋
 
