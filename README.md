@@ -1,4 +1,4 @@
-<img src = "./src/header.png">
+<img src = "https://github.com/akashgiricse/akashgiricse/blob/master/src/header.png">
 
 ### Hi there 👋
 
