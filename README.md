@@ -1,4 +1,4 @@
-![Header](./src/header.jfif)
+![Header](src/header.jfif)
 
 ### Hi there 👋
 
