@@ -1,5 +1,3 @@
-<a  href="https://akashgiri.com/"><img src = "https://github.com/akashgiricse/akashgiricse/blob/master/src/header.png" style="border-radius: 5px"></a>
-
 ### Hi there 👋
 
 It's Akash. I'm a software developer engineer @zeliot. I'm mainly working on full stack development and helping build awesome software.
