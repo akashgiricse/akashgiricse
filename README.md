@@ -5,7 +5,7 @@ It's Akash. I'm a software developer engineer @zeliot. I'm mainly working on ful
 I like to share the knowledge that I've gained through my professional and personal experience in software development via blog posts and video tutorials.
 
 - 🔗 Know more about me: **[akashgiri.com](https://akashgiri.com/)**
-- 📺 New to software development? Or need to upgrade your skills? Checkout my **[YouTube Channel](https://www.youtube.com/channel/UCz4zuvhKpwofQNtDOvvj5wQ)**
+- 📺 New to software development? Or need to upgrade your skills? Checkout my **[YouTube Channel](https://www.youtube.com/c/AkashGiri)**
 - 💬 Ask me about: web development and software engineering in general
 - 📫 How to reach me: **[contact@akashgiri.com](mailto:contact@akashgiri.com)**
 - 📥 Get updated via my **[newsletter](https://akashgiri.com/#section-newsletter)**
