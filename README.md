@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-It's Akash. I'm a Software engineer mainly working on full-stack development and helping build awesome software.
+It's Akash. I'm a Software engineer mainly working on full-stack development.
 
 I like to share the knowledge that I've gained through my professional and personal experience in software development via blog posts and video tutorials.
 
